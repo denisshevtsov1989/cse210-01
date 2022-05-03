@@ -1,4 +1,8 @@
-# Tic-Tac-Toe
+"""
+Denis Shevtsov
+CSE210-01
+Tic-Tac-Toe
+"""
 
 import random
 
